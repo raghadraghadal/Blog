@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on What If Coding Languages Were Superheroes?</title>
+    <link>//localhost:1313/series/</link>
+    <description>Recent content in Series on What If Coding Languages Were Superheroes?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>raghadaaalamri@gmail.com (Raghad Alamri)</managingEditor>
+    <webMaster>raghadaaalamri@gmail.com (Raghad Alamri)</webMaster>
+    <copyright>© 2025 Raghad Alamri</copyright>
+    <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

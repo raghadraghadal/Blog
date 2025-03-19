@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What If Coding Languages Were Superheroes?</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on What If Coding Languages Were Superheroes?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>raghadaaalamri@gmail.com (Raghad Alamri)</managingEditor>
+    <webMaster>raghadaaalamri@gmail.com (Raghad Alamri)</webMaster>
+    <copyright>© 2025 Raghad Alamri</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 23:06:18 +0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>//localhost:1313/posts/2025/c&#43;&#43;/</link>
+      <pubDate>Wed, 19 Mar 2025 23:06:18 +0300</pubDate>
+      <author>raghadaaalamri@gmail.com (Raghad Alamri)</author>
+      <guid>//localhost:1313/posts/2025/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>//localhost:1313/posts/2025/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raghadaaalamri@gmail.com (Raghad Alamri)</author>
+      <guid>//localhost:1313/posts/2025/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScrip</title>
+      <link>//localhost:1313/posts/2025/javascrip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raghadaaalamri@gmail.com (Raghad Alamri)</author>
+      <guid>//localhost:1313/posts/2025/javascrip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/posts/2025/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>raghadaaalamri@gmail.com (Raghad Alamri)</author>
+      <guid>//localhost:1313/posts/2025/python/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
